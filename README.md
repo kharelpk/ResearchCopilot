@@ -9,7 +9,7 @@ Research Assistant is a Chrome extension powered by OpenAI's GPT-3.5 Turbo that 
 * Powered by OpenAI's GPT-3.5 Turbo
 
 ## Prerequisites
-To use this extension, you need to have an [OpenAI API key] (https://openai.com/product). Sign up for an account on the OpenAI website to get access to the API key.
+To use this extension, you need to have an OpenAI API key. Please visit https://openai.com/product. Sign up for an account on the OpenAI website to get access to the API key.
 
 
 ## Installation
